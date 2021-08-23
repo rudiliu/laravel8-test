@@ -1,0 +1,11 @@
+.welcome{
+  height: 500px;
+}
+
+.welcome-login-text{
+  text-shadow: 3px 3px 1px #000; color:#fff;
+}
+
+.welcome-register-text{
+  text-shadow: 3px 3px 1px #000; color:#FCED99;
+}
